@@ -1,0 +1,3 @@
+[submodule "secondTest"]
+	path = secondTest
+	url = git://github.com/coke750101/secondTest.git
